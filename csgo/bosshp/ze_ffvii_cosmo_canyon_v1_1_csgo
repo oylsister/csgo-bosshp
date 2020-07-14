@@ -1,0 +1,35 @@
+"bosses"
+{
+  "0"
+	{
+		"name"			"Gi Nattak"
+		"method"		"counter"
+		"trigger"		"Hold7_Trigger:OnTrigger:30" // Countdown 30 seconds before the boss fight start
+
+		"counter"		"Gi_Nattak_Counter"
+	}
+	"1"
+	{
+		"name"			"Gi Nattak"
+		"method"		"counter"
+		"trigger"		"lvl2_Gi_Nattak_HP_Add:OnStartTouch"
+
+		"counter"		"lvl2_Gi_Nattak_Counter"
+	}
+	"3"
+	{
+		"name"			"Ifrit"
+		"method"		"counter"
+		"trigger"		"Shinra_Arena_HP_Add:OnStartTouch"
+
+		"counter"		"Ifrit_Counter"
+	}
+	"4"
+	{
+		"name"			"Genesis"
+		"method"		"counter"
+		"trigger"		"Genesis_HP_Add:OnStartTouch"
+
+		"counter"		"Genesis_Counter"
+	}
+}

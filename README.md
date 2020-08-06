@@ -1,6 +1,7 @@
 # BossHP Config
 
-Config the BossHP for each map. This cannot be replaced with GFL BossHUD, since the config is completely different. If you know which plugin work with this config, feel free to use it.
+Config the BossHP for each map. This cannot be replaced with GFL BossHUD, since the config is completely different. 
+The plugin can be found in this link: https://gogs.botox.bz/CSSZombieEscape/sm-plugins/src/master/BossHP/scripting
 
 ### THE STRIPPER IS NO LONGER NEED. REPLACING WITH HAMMERID INSTEAD.
 
